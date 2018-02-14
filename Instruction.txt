@@ -1,0 +1,8 @@
+1) Download the dataset form kaggle https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/
+2) Unzip the train and test csv files
+3) Install all dependcies
+	3.1) you need to have keras as tensorflow backend to be installed
+	3.2) you need to have nltk installed
+	3.3) you need sklearn library
+	(prefer anaconda for your work and install each dependencies using "conda install _____")
+4) Download Glovw-Embedding layer for vectorizing your words from its official site
